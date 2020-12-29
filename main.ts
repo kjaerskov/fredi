@@ -39,4 +39,3 @@ basic.showLeds(`
     . # # # .
     `)
 RingbitCar.init_wheel(AnalogPin.P1, AnalogPin.P2)
-RingbitCar.forward()
